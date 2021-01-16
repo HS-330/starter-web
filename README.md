@@ -11,8 +11,12 @@ using a web project.
 
 ## Purpose
 
-Sample website with plenty of files for demos
+As Stated above, he main putpose id to 
+provide simple example for Git Traigning.
 
 ## Deployment
+
+This is simple web project, Deployment.
+
 
 ## Topic2
