@@ -23,5 +23,10 @@ This is simple web project, Deployment.
 
 Only On Working directory
 
+## How tocontribute
+
+Please fork this repository and then issue  Puul REquest for 
+reviews.
+
 ### Copyright
  Git training
