@@ -30,4 +30,4 @@ Please fork this repository and then issue  Puul REquest for
 reviews.
 
 ### Copyright
- Git training
+ Git training . All rights reserved!
