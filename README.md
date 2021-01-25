@@ -2,7 +2,7 @@
 
 This repository is for showing how Git and GitHub work
 This is sample website page. 
-Adding a line reabasing example, more changes from my feature banch too.
+Updating for emergency fix after stashing.
 
 ## Introduction
 
